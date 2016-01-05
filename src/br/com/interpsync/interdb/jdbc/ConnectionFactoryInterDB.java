@@ -1,5 +1,5 @@
 /*  1:   */ package br.com.interpsync.interdb.jdbc;
-/*  2:   */ 
+
 import br.com.interpsync.controller.Geralog;
 import java.io.BufferedReader;
 import java.io.File;

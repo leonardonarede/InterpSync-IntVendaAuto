@@ -1,5 +1,5 @@
 /*  1:   */ package br.com.interpsync.saci.modelo;
-/*  2:   */ 
+
 /*  3:   */ public class Xa_SACI
 /*  4:   */ {
 /*  5:   */   private Long xano;
@@ -15,8 +15,12 @@
 /* 15:   */   }
 /* 16:   */ }
 
-
-/* Location:           C:\Users\Leonardo\Desktop\INT\InterpSync.jar
- * Qualified Name:     br.com.interpsync.saci.modelo.Xa_SACI
- * JD-Core Version:    0.7.0.1
+
+
+/* Location:           C:\Users\Leonardo\Desktop\INT\InterpSync.jar
+
+ * Qualified Name:     br.com.interpsync.saci.modelo.Xa_SACI
+
+ * JD-Core Version:    0.7.0.1
+
  */

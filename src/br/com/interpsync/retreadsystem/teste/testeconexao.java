@@ -1,5 +1,5 @@
 /*  1:   */ package br.com.interpsync.retreadsystem.teste;
-/*  2:   */ 
+
 /*  3:   */ import br.com.interpsync.retreadsystem.dao.Vendedores_ERPDAO;
 /*  4:   */ import br.com.interpsync.retreadsystem.modelo.Vendedores_ERP;
 /*  5:   */ import java.io.PrintStream;
@@ -18,8 +18,12 @@
 /* 18:   */   }
 /* 19:   */ }
 
-
-/* Location:           C:\Users\Leonardo\Desktop\INT\InterpSync.jar
- * Qualified Name:     br.com.interpsync.retreadsystem.teste.testeconexao
- * JD-Core Version:    0.7.0.1
+
+
+/* Location:           C:\Users\Leonardo\Desktop\INT\InterpSync.jar
+
+ * Qualified Name:     br.com.interpsync.retreadsystem.teste.testeconexao
+
+ * JD-Core Version:    0.7.0.1
+
  */

@@ -397,7 +397,7 @@ public class GeraPedidoAuto {
                                 System.out.println("Pedido: "+eordsaci.getOrdno());
                                 for(OS_ERP osFim : listaOS){
                                     System.out.println("OS: "+osFim.getNrOS());
-                                    osintdao.atualizar(osFim);
+                                    osintdao.atualizarStatus(osFim);
                                 }
                         }
                     }

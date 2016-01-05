@@ -1,5 +1,5 @@
 /*   1:    */ package br.com.interpsync.saci.modelo;
-/*   2:    */ 
+
 /*   3:    */ public class Fornecedor_SACI
 /*   4:    */ {
 /*   5:    */   private Integer no;
@@ -455,8 +455,12 @@
 /* 455:    */   }
 /* 456:    */ }
 
-
-/* Location:           C:\Users\Leonardo\Desktop\INT\InterpSync.jar
- * Qualified Name:     br.com.interpsync.saci.modelo.Fornecedor_SACI
- * JD-Core Version:    0.7.0.1
+
+
+/* Location:           C:\Users\Leonardo\Desktop\INT\InterpSync.jar
+
+ * Qualified Name:     br.com.interpsync.saci.modelo.Fornecedor_SACI
+
+ * JD-Core Version:    0.7.0.1
+
  */

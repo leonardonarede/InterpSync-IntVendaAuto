@@ -1,5 +1,5 @@
 /*  1:   */ package br.com.interpsync.retreadsystem.modelo;
-/*  2:   */ 
+
 /*  3:   */ public class Lotes_ERP
 /*  4:   */ {
 /*  5:   */   private Integer NrLote;

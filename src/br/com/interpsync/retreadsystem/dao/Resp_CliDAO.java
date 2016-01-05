@@ -1,5 +1,5 @@
 /*   1:    */ package br.com.interpsync.retreadsystem.dao;
-/*   2:    */ 
+
 /*   3:    */ import br.com.interpsync.retreadsystem.jdbc.ConnectionFactory;
 /*   4:    */ import br.com.interpsync.retreadsystem.modelo.Resp_Cli;
 /*   5:    */ import java.sql.Connection;

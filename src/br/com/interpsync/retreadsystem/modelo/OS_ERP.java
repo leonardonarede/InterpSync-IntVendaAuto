@@ -1,5 +1,5 @@
 /*   1:    */ package br.com.interpsync.retreadsystem.modelo;
-/*   2:    */ 
+
 /*   3:    */ import java.math.BigDecimal;
 /*   4:    */ import java.util.Date;
 /*   5:    */ 
@@ -348,8 +348,12 @@
 /* 348:    */   }
 /* 349:    */ }
 
-
-/* Location:           C:\Users\Leonardo\Desktop\INT\InterpSync.jar
- * Qualified Name:     br.com.interpsync.retreadsystem.modelo.OS_ERP
- * JD-Core Version:    0.7.0.1
+
+
+/* Location:           C:\Users\Leonardo\Desktop\INT\InterpSync.jar
+
+ * Qualified Name:     br.com.interpsync.retreadsystem.modelo.OS_ERP
+
+ * JD-Core Version:    0.7.0.1
+
  */

@@ -1,5 +1,4 @@
 /*   1:    */ package br.com.interpsync.interdb.dao;
-/*   2:    */ 
 /*   3:    */ import br.com.interpsync.interdb.jdbc.ConnectionFactoryInterDB;
 /*   4:    */ import br.com.interpsync.retreadsystem.modelo.Osvr_ERP;
 /*   5:    */ import java.sql.Connection;
@@ -10,7 +9,6 @@
 /*  10:    */ import java.util.List;
 /*  11:    */ import java.util.logging.Level;
 /*  12:    */ import java.util.logging.Logger;
-/*  13:    */ 
 /*  14:    */ public class Osvr_INTERDBDAO
 /*  15:    */ {
 /*  16:    */   private Connection connection;

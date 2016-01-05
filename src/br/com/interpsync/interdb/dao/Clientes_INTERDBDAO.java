@@ -7,7 +7,7 @@
 /*  7:   */ import java.sql.SQLException;
 /*  8:   */ import java.util.logging.Level;
 /*  9:   */ import java.util.logging.Logger;
-/* 10:   */ 
+
 /* 11:   */ public class Clientes_INTERDBDAO
 /* 12:   */ {
 /* 13:   */   private Connection connection;

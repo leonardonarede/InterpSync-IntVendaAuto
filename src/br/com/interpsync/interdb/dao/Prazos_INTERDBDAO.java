@@ -1,5 +1,5 @@
 /*  1:   */ package br.com.interpsync.interdb.dao;
-/*  2:   */ 
+
 /*  3:   */ import br.com.interpsync.interdb.jdbc.ConnectionFactoryInterDB;
 /*  4:   */ import br.com.interpsync.retreadsystem.modelo.Prazos_ERP;
 /*  5:   */ import java.sql.Connection;

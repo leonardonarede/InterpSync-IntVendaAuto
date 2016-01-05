@@ -1,5 +1,4 @@
 /*  1:   */ package br.com.interpsync.saci.modelo;
-/*  2:   */ 
 /*  3:   */ public class Spedcid_SACI
 /*  4:   */ {
 /*  5:   */   private Integer no;
@@ -48,8 +47,12 @@
 /* 48:   */   }
 /* 49:   */ }
 
-
-/* Location:           C:\Users\Leonardo\Desktop\INT\InterpSync.jar
- * Qualified Name:     br.com.interpsync.saci.modelo.Spedcid_SACI
- * JD-Core Version:    0.7.0.1
+
+
+/* Location:           C:\Users\Leonardo\Desktop\INT\InterpSync.jar
+
+ * Qualified Name:     br.com.interpsync.saci.modelo.Spedcid_SACI
+
+ * JD-Core Version:    0.7.0.1
+
  */

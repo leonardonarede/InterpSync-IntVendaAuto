@@ -112,6 +112,19 @@
 /* 145:153 */     stmt.close();
                   //connection.close();
 /* 146:    */   }
+/*  98:    */   public void atualizarStatus(OS_ERP os)
+/*  99:    */     throws ClassNotFoundException, SQLException, Exception
+/* 100:    */   {
+/* 101:107 */     String sql = "UPDATE OS_ERP SET StatusERP = ? WHERE NrOS = ? ";
+/* 102:    */     
+/* 103:    */ 
+/* 104:110 */     PreparedStatement stmt = getConnection().prepareStatement(sql);
+/* 111:117 */     stmt.setInt(1, os.getStatusERP());
+/* 143:151 */     stmt.setInt(2, os.getNrOS().intValue());
+/* 144:152 */     stmt.executeUpdate();
+/* 145:153 */     stmt.close();
+                  //connection.close();
+/* 146:    */   }
 /* 147:    */   
 /* 148:    */   public OS_ERP localizarPorID(int id)
 /* 149:    */     throws ClassNotFoundException, SQLException, Exception

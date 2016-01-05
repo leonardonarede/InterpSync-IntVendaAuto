@@ -1,5 +1,5 @@
 /*   1:    */ package br.com.interpsync.saci.modelo;
-/*   2:    */ 
+
 /*   3:    */ import java.math.BigDecimal;
 /*   4:    */ 
 /*   5:    */ public class Cliente_SACI
@@ -138,8 +138,12 @@
 /* 138:    */   }
 /* 139:    */ }
 
-
-/* Location:           C:\Users\Leonardo\Desktop\INT\InterpSync.jar
- * Qualified Name:     br.com.interpsync.saci.modelo.Cliente_SACI
- * JD-Core Version:    0.7.0.1
+
+
+/* Location:           C:\Users\Leonardo\Desktop\INT\InterpSync.jar
+
+ * Qualified Name:     br.com.interpsync.saci.modelo.Cliente_SACI
+
+ * JD-Core Version:    0.7.0.1
+
  */

@@ -1,5 +1,5 @@
 /*  1:   */ package br.com.interpsync.retreadsystem.modelo;
-/*  2:   */ 
+
 /*  3:   */ public class Parcprazos_ERP
 /*  4:   */ {
 /*  5:   */   private String CodPR;
@@ -48,8 +48,12 @@
 /* 48:   */   }
 /* 49:   */ }
 
-
-/* Location:           C:\Users\Leonardo\Desktop\INT\InterpSync.jar
- * Qualified Name:     br.com.interpsync.retreadsystem.modelo.Parcprazos_ERP
- * JD-Core Version:    0.7.0.1
+
+
+/* Location:           C:\Users\Leonardo\Desktop\INT\InterpSync.jar
+
+ * Qualified Name:     br.com.interpsync.retreadsystem.modelo.Parcprazos_ERP
+
+ * JD-Core Version:    0.7.0.1
+
  */
